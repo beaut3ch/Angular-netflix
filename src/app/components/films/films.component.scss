@@ -1,0 +1,20 @@
+
+.contenedor {
+    background-color: rgb(35, 32, 32);
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    width: 0%;
+    height: 25%;
+    transition: transform .4s;
+}
+
+li:hover img {
+    background-color: rgb(35, 32, 32);
+    opacity: .5;
+    list-style: none;
+}
+.films {
+    display: flex;
+    background-color: rgb(35, 32, 32);
+}
